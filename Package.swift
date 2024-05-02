@@ -17,7 +17,7 @@ let package = Package(
     .package(url: "https://github.com/onevcat/Rainbow", from: "3.0.0"),
     .package(url: "https://github.com/mxcl/Version.git", from: "2.0.0"),
     .package(url: "https://github.com/apple/swift-docc-plugin", from: "1.0.0"),
-    .package(url: "https://github.com/stackotter/XcodeGen", exact: "2.35.1"),
+    .package(url: "https://github.com/llacroix/XcodeGen", exact: "2.35.1"),
     .package(
       url: "https://github.com/apple/swift-syntax", exact: "510.0.1"
     ),
